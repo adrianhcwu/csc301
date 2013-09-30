@@ -1,7 +1,0 @@
-Technology:
-
-Andriod SDK- IDE that use to create, test and program the Android app.
-
-Django - A web framework for our server portion of our project.
-
-Python - A Programming language that Django based on.
